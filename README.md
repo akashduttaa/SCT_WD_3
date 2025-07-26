@@ -47,14 +47,6 @@ This application brings the timeless Tic-Tac-Toe game to your browser with moder
 
 ---
 
-## 📂 Project Structure
-
-SCT_WD_3/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
 
 ## Author ---Akash Dutta
 
