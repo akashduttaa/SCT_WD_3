@@ -1,4 +1,4 @@
-# 🎮  Tic-Tac-Toe Web Application
+# 🎮  Tic-Tac-Toe Web Application :
 
 An interactive, clean, and responsive web-based Tic-Tac-Toe game built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**. This project supports **Player vs Player** and **Player vs Computer** modes with dark theme support, win/draw detection, and a professional UI.
 
